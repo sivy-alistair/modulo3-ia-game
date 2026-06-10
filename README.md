@@ -1,4 +1,5 @@
 # modulo3-ia-game
+<<<<<<< HEAD
 
 Un motor de juego de Piedra, Papel o Tijera matemáticamente transparente, gobernado por la entropía física del hardware y aritmética de módulo 3. Diseñado para ser 100% inclusivo, seguro y de alto rendimiento.
 
@@ -28,3 +29,6 @@ Para garantizar que el juego corra de manera fluida en cualquier dispositivo (de
 
 2. **Escudo Antidesbordamiento (Safe Reset Contingency):**
    Si el sistema detecta una entrada maliciosa o abusiva con 4 o más instancias del marcador, activa de inmediato un protocolo de mitigación de bajo consumo. Interrumpe el análisis por expresiones regulares para proteger la memoria RAM y resuelve el combate instantáneamente usando una matriz de números pseudoaleatorios aislados, manteniendo la estabilidad absoluta del hardware.
+=======
+A mathematically fair Rock, Paper, Scissors game played using LLM text telemetry and modulo 3
+>>>>>>> 076cc5e50b143d39a03f17ebb53f9cf8faf081b1
